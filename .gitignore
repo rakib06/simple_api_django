@@ -1,0 +1,11 @@
+env
+*.pyc
+**/__pycache__
+.DS_Store
+*.env
+
+# Accept these files in the repository
+!.gitignore
+!.travis.yml
+/.env
+/.vscode

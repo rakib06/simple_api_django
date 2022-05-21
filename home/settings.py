@@ -76,9 +76,6 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'home.wsgi.application'
-
-
 
 
 DATABASES = {
